@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "What book should I read next?"
+    url: /wsirn/
+  - title: "My Cube Collection"
+    url: /cubes/
+  - title: "About"
+    url: /about/

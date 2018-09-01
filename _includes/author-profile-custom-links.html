@@ -1,0 +1,14 @@
+<!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+      {% if author.goodreads %}
+        <li>
+          <a href="https://goodreads.com/{{ author.goodreads }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-goodreads" aria-hidden="true"></i> Goodreads
+          </a>
+        </li>
+      {% endif %}

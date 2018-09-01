@@ -1,0 +1,84 @@
+/* ==========================================================================
+   Syntax highlighting
+   ========================================================================== */
+
+div.highlighter-rouge,
+figure.highlight {
+  position: relative;
+  margin-bottom: 1em;
+  font-family: $monospace;
+  font-size: $type-size-7;
+  line-height: 1.8;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+
+  > pre,
+  pre.highlight {
+    margin: 0;
+    padding: 1em;
+  }
+}
+
+.highlight table {
+  margin-bottom: 0;
+  font-size: 1em;
+  border: 0;
+
+  td {
+    padding: 0;
+    width: calc(100% - 1em);
+    border: 0;
+
+    /* line numbers*/
+    &.gutter,
+    &.rouge-gutter {
+      padding-right: 1em;
+      width: 1em;
+      color: $base04;
+      border-right: 1px solid $base04;
+      text-align: right;
+    }
+
+    /* code */
+    &.code,
+    &.rouge-code {
+      padding-left: 1em;
+    }
+  }
+
+  pre {
+    margin: 0;
+  }
+}
+
+.highlight pre {
+  width: 100%;
+}
+
+.highlight .hll {
+  background-color: $base06;
+}
+
+.gist {
+  th, td {
+    border-bottom: 0;
+  }
+}
+
+/*
+rougify style base16.solarized.dark > _sass/_syntax_style.scss
+
+https://sainathadapa.github.io/blog/rstudio-theme-material/
+https://raw.githubusercontent.com/mohsen1/mohsen1.github.io/master/_sass/_syntax-highlighting.scss
+https://raw.githubusercontent.com/jwarby/pygments-css/master/zenburn.css
+https://github.com/equinusocio/material-theme
+
+https://raw.githubusercontent.com/wbinnssmith/base16-oceanic-next/master/pygments/base16-oceanicnext.dark.css
+http://tmtheme-editor.herokuapp.com/#!/editor/theme/Zenburn
+https://chriskempson.github.io/base16/
+https://github.com/davinche/pygments-from-tmtheme
+
+http://pygments.org/docs/tokens/#module-pygments.token
+*/
+@import "_syntax_style.scss";
