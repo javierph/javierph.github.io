@@ -19,27 +19,18 @@ On October 21, 2017 I bought my first decent 3x3 and my first 2x2. Since then my
 
   <style type="text/css">
     img {
-      width: 80px;
-      height: 80px;
+      width: 100%;
+      height: auto;
     }
-
-    th {
-      border-right: 0;
-    }
-
-    td {
-      border-right: 0;
-    }
-
   </style>
   <body>
   
   <br/>
-  <table data-sortable style="border-left: 0;border-right: 0;">
+  <table data-sortable>
       <thead>
           <tr>
               <th style="text-align: right;">#</th>
-              <th data-sortable="false" style="text-align: right;"><span class="fa fa-camera"></span></th>
+              <th data-sortable="false" style="text-align: right;"><span class="fas fa-camera"></span></th>
               <th>Brand</th>
               <th>Model</th>
               <th style="text-align: right;">Pieces</th>
