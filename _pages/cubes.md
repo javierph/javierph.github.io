@@ -30,7 +30,7 @@ On October 21, 2017 I bought my first decent 3x3 and my first 2x2. Since then my
       <thead>
           <tr>
               <th style="text-align: right;">#</th>
-              <th data-sortable="false" style="text-align: right;"><span class="fas fa-camera"></span></th>
+              <th data-sortable="false" style="text-align: center;"><span class="fas fa-camera"></span></th>
               <th>Brand</th>
               <th>Model</th>
               <th style="text-align: right;">Pieces</th>
