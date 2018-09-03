@@ -34,6 +34,7 @@ On October 21, 2017 I bought my first decent 3x3 and my first 2x2. Since then my
               <th>Brand</th>
               <th>Model</th>
               <th style="text-align: right;">Pieces</th>
+              <th style="text-align: center;">Difficulty</th>
               <th style="text-align: center;">Released</th>
               <th style="text-align: center;">Added</th>
               <th>Store</th>

@@ -2,7 +2,7 @@
 background-color: #ffe6e6;
 }*/
 table[data-sortable] tr:hover td {
-background-color: #ffffe6;
+background-color: #f1f2f3;
 }
 /* line 14, ../sass/_sortable.sass */
 table[data-sortable] th:not([data-sortable="false"]) {
