@@ -47,6 +47,7 @@ On October 21, 2017 I bought my first decent 3x3 and my first 2x2. Since then my
   </table>
 
 <br/>
+<span style="color: #382110; font-size: 12px;">Table powered by <a href="https://github.hubspot.com/sortable/">sortable</a></span><br/>
 <span style="color: #382110; font-size: 12px;">(Images have been taken from the online stores)</span><br/>
   </body>
 </html>
