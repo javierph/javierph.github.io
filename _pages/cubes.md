@@ -7,8 +7,6 @@ header:
   overlay_image: /assets/images/fondoCubes.jpg
   caption: "Photo by [*Ricardo Gomez Angel*](https://unsplash.com/@ripato)"
 ---
-### Organizing my cubes
-On October 21, 2017 I bought my first decent 3x3 and my first 2x2. Since then my interest has not stopped growing... like my collection!. With the following list I can know at a glance: what, when, where... and admire its beauty!
 
 <html>
   <head>
