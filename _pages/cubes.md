@@ -34,7 +34,6 @@ header:
               <th style="text-align: right;">Pieces</th>
               <th style="text-align: center;">Difficulty</th>
               <th style="text-align: center;">Released</th>
-              <th style="text-align: center;">Added</th>
               <th>Store</th>
           </tr>
       </thead>
