@@ -1,6 +1,7 @@
 ---
 title: "One Year Of Cubing"
 excerpt: Some data analysis with the excuse of my first year of cubing
+toc: true
 tags:
 - R
 - data visualization
