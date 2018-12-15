@@ -31,10 +31,10 @@ header:
               <th data-sortable="false" style="text-align: center;"><span class="fas fa-camera"></span></th>
               <th>Brand</th>
               <th>Model</th>
+              <th>Type</th>
               <th style="text-align: right;">Pieces</th>
+              <th style="text-align: right;">Released</th>
               <th style="text-align: center;">Difficulty</th>
-              <th style="text-align: center;">Released</th>
-              <th>Store</th>
           </tr>
       </thead>
       <tbody>
